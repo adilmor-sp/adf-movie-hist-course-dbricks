@@ -1,0 +1,9 @@
+{
+	"name": "databricks-course-with-adf-adilmor",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e78cfdef-4c55-48ae-82c0-888fc3c54be9",
+		"tenantId": "b053ff00-177c-4f50-af9a-be8a4bb07f26"
+	}
+}
